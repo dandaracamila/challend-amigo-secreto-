@@ -1,16 +1,17 @@
-# 🎉 Amigo Secreto 🎉
+# 🎁 Amigo Secreto  
 
-## Descrição
-O **Amigo Secreto** é um jogo interativo que permite que você e seus amigos participem de um sorteio de presentes de forma simples e divertida. Com uma interface amigável, você pode adicionar os nomes dos participantes e sortear quem dará presente a quem. Ideal para festas, confraternizações e eventos especiais!
+## 📌 Descrição  
+O **Amigo Secreto** é um aplicativo web criado para deixar o sorteio de presentes muito mais fácil e divertido. Basta adicionar os participantes e o sistema faz o sorteio automaticamente, garantindo o mistério e a diversão das confraternizações.  
 
-## Funcionalidades
-- 🎁 **Adicionar Participantes**: Insira os nomes dos seus amigos facilmente.
-- 🎲 **Sortear Amigo Secreto**: Realize o sorteio e descubra quem é o amigo secreto de cada um.
+## 🚀 Funcionalidades  
+- ➕ **Adicionar Participantes**: insira os nomes de todos os envolvidos.  
+- 🔀 **Sorteio Automático**: descubra de forma justa quem tira quem.  
+- 🎉 **Experiência Divertida**: pensado para festas, eventos e encontros especiais.  
 
-## Tecnologias Utilizadas
-Aqui estão as principais tecnologias utilizadas no projeto:
+## 🛠️ Tecnologias Utilizadas  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
 
-```plaintext
-HTML       ██████████████████████████████  40%
-CSS        ████████████████████████████    30%
-JavaScript ███████████████████████████████  30%
+## 🎯 Objetivo  
+Facilitar a organização do **Amigo Secreto**, economizando tempo e evitando confusões, para que todo mundo aproveite o momento.
